@@ -1,4 +1,4 @@
-Hello! Datasets, white their transformed data applied on graphs, offer an excellent basis to better understand tendencies. In this repository, I post the Power BI reports I made while practicing data analysis. 
+Hello! Datasets, whith their transformed data applied on graphs, offer an excellent basis to better understand tendencies. In this repository, I post the Power BI reports I made while practicing data analysis. 
 Enjoy the view (or should i say, report visualizations)! ;)  # powerbi_reports
 
 INDEX
