@@ -3,6 +3,6 @@ Enjoy the view (or should i say, report visualizations)! ;)  # powerbi_reports
 
 QUICK INDEX
 
-[Report in pdf - diabetes on women](https://github.com/iasminsantiago/powerbi_reports/blob/diabetes_kaggledataset/analise_diabetesdataset_kaggle.pdf) | [diabetes dataset from kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)  
+[Diabetes on women - report in pdf](https://github.com/iasminsantiago/powerbi_reports/blob/diabetes_kaggledataset/analise_diabetesdataset_kaggle.pdf) | [Project branch](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
 
-[Report in pdf - sales](https://github.com/iasminsantiago/powerbi_reports/blob/sales-powerbi/sales_powerbi_samples.pdf) | sales  dataset from Power BI
+[Sales - report in pdf](https://github.com/iasminsantiago/powerbi_reports/blob/sales-powerbi/sales_powerbi_samples.pdf) | [Project branch](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
