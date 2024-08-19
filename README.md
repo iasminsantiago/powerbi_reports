@@ -5,4 +5,4 @@ INDEX
 
 [Project](https://github.com/iasminsantiago/powerbi_reports/blob/diabetes_kaggledataset/analise_diabetesdataset_kaggle.pdf) | [diabetes dataset from kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)  
 
-[Project](https://github.com/iasminsantiago/powerbi_reports/blob/diabetes_kaggledataset/analise_diabetesdataset_kaggle.pdf) | sales  dataset from Power BI
+[Project](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi) | sales  dataset from Power BI
