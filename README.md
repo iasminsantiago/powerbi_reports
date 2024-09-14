@@ -1,6 +1,6 @@
 Hello! This dataset refers to sales information across the globe about specific products.  # powerbi_reports
 
-INDEX
+INDEX - PROJECT 2
 
 [Report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGU3M2FmOGMtYTU4NC00ZGQwLTllM2YtYzY0YzViMjdhNGRiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
